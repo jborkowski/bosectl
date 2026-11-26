@@ -2,9 +2,10 @@ class Bosectl < Formula
   include Language::Python::Virtualenv
 
   desc "Control Bose headphones over Bluetooth RFCOMM using the BMAP protocol"
-  homepage "https://github.com/aaronsb/bosectl"
-  url "https://github.com/aaronsb/bosectl/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "9f5e2d6e4ffed94f2a53b9053af9afac6e382a6d882f07cddb4090beb1742143"
+  homepage "https://github.com/jborkowski/bosectl"
+  url "https://github.com/jborkowski/bosectl/archive/0072d5c2d6b12d2dee4d51f147d732b5e3117a0f.tar.gz"
+  version "0.6.0"
+  sha256 "a4dbe043a1deb98c47105788d5f2c338cc3e4855106c2f57ea556743b195fbe0"
   license "MIT"
   head "https://github.com/jborkowski/bosectl.git", branch: "integration"
 
