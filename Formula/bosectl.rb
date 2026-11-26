@@ -24,7 +24,7 @@ class Bosectl < Formula
   end
 
   resource "pyobjc-framework-IOBluetooth" do
-    url "https://files.pythonhosted.org/packages/83/ce/e0ccbdbe0bcf491dd984db733b7e20dc0f62b474ed1bcca7f092352926/pyobjc_framework_iobluetooth-13.1.tar.gz"
+    url "https://files.pythonhosted.org/packages/83/ce/e0ccbdbe0bcf491dd984db733b7e20dc0f62b474ed1bcca7f09292352926/pyobjc_framework_iobluetooth-13.1.tar.gz"
     sha256 "4321b495de2934ac30653f806a616c92ed5f67dcfc929b916ac5c140752d232c"
   end
 
